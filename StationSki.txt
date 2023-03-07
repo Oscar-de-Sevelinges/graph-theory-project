@@ -1,0 +1,134 @@
+37
+0    villaroger    1200        
+1    pointe-du-lac    1425        
+2    lac    2135        
+3    etang-du-col    2458        
+4    aiguille-rouge    3226        
+5    villapascal    2158        
+6    arc2000    2120        
+7    pre-saint-esprit    1822        
+8    sommet-du-col1    2120        
+9    sommet-du-col2    2015        
+10    sommet-du-col3    2195        
+11    sommet-du-col4    2670        
+12    grand-col    2835        
+13    petit-col    2446        
+14    arpette    2418        
+15    nid-de-pigeon    2296        
+16    enclos-des-rats    2375        
+17    salle-des-fetes    2314        
+18    deux-tetes    2285        
+19    trois-tetes    2063        
+20    quatre-tetes    2160        
+21    cinq-tetes    2230        
+22    col-des-frettes    2384        
+23    pic-des-frettes    2280        
+24    barbes-rochechouart    2294        
+25    col-de-la-chal    2600        
+26    grand-place    2275        
+27    lidl    1750        
+28    pharmacie    1850        
+29    arc1600    1613        
+30    location-ski    2050        
+31    col-du-grand-renard    2454        
+32    residence1    2150        
+33    residence2    1920        
+34    residence3    1830        
+35    arc1800    1715        
+36    residence4    2100
+95
+0	aiguille-rouge	TPH	11	4
+1	aiguille-rouge1	N	4	3
+2	aiguille-rouge2	N	3	2
+3	aiguille-rouge3	N	2	1
+4	aiguille-rouge4	N	1	0
+5	arandeliere	R	4	11
+6	arpette	TS	30	14
+7	belvedere1	B	17	18
+8	belvedere2	B	18	30
+9	belvedere3	B	30	34
+10	bois-de-l'ours	TS	9	14
+11	bosses	TK	15	25
+12	cachette	R	20	29
+13	cachette	TSD	29	20
+14	carreley	R	30	35
+15	carreley	TS	35	30
+16	cascade	B	9	7
+17	chantel	B	33	35
+18	chantel	TS	35	33
+19	clair-blanc	R	14	30
+20	clair-blanc	TS	30	21
+21	clapet	B	16	20
+22	clocheret	R	16	30
+23	clocheret	TS	30	16
+24	col-de-la-chal	B	25	13
+25	col-des-frettes	R	22	23
+26	col-des-frettes	TS	30	22
+27	col-du-renard	B	25	31
+28	combes	N	3	5
+29	combettes	TS	29	27
+30	comborciere	N	17	7
+31	comborciere	TS	7	17
+32	dent-du-peigne	B	31	24
+33	deux-tetes	TK	19	18
+34	deux-tetes	N	18	19
+35	dou-de-l-homme	N	11	10
+36	droset	N	3	7
+37	fond-blanc	B	21	30
+38	fond-blanc	N	14	21
+39	frettes	TK	30	23
+40	froide-fontaine	R	26	30
+41	genepy	N	4	5
+42	gollet	B	30	29
+43	gollet	TS	29	30
+44	grand-col	R	12	13
+45	grand-col	TS	13	12
+46	grand-renard	R	31	32
+47	grand-renard	TS	32	31
+48	lac-combes	TK	6	5
+49	lanches	N	11	8
+50	lanchettes	TS	6	3
+51	malgovert	R	17	19
+52	marmotte	TK	9	10
+53	marmottes	B	10	9
+54	mont-blanc	B	19	29
+55	mont-blanc	TS	29	19
+56	muguet	N	16	7
+57	navette1600-1800	BUS	29	35
+58	navette1800-1600	BUS	35	29
+59	navette1600-2000	BUS	29	6
+60	navette2000-1600	BUS	6	29
+61	ours	N	14	9
+62	plagnettes	TSD	10	25
+63	plan	B	22	10
+64	plan-des-eaux	B	25	15
+65	plan-vert	B	25	24
+66	plan-vert	TK	24	25
+67	plan-violettes	TS	1	2
+68	pre-saint-esprit	TS	7	10
+69	refuge	N	12	13
+70	replat	TS	0	1
+71	reservoir	R	3	5
+72	rhonaz	B	2	7
+73	saint-jacques	B	10	8
+74	saint-jacques	TS	8	10
+75	snowpark	SURF	23	30
+76	soliet1	R	3	2
+77	soliet2	R	2	1
+78	soliet3	R	1	0
+79	tetras	R	26	34
+80	tommelet	TK	29	28
+81	transarc1	TC	35	36
+82	transarc2	TC	36	25
+83	tuffes	R	25	15
+84	vagere	TK	34	26
+85	vallee-de-l-arc1	B	13	15
+86	vallee-de-l-arc2	B	15	10
+87	vallee-de-l-arc	R	10	9
+88	varet	TC	8	11
+89	vezaille	TK	27	28
+90	villards	B	36	35
+91	villards	TSD	35	32
+92	villaroger1	B	7	1
+93	villaroger2	B	1	0
+94	vitesse	KL	11	5

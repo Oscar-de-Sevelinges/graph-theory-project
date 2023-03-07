@@ -1,0 +1,183 @@
+# depslib dependency file v1.0
+1618147080 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\main.cpp
+	"Library.h"
+
+1618095176 c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\library.h
+	<iostream>
+	<allegro.h>
+	<sstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<fstream>
+	<deque>
+	<queue>
+	<map>
+	<algorithm>
+	<set>
+	<stack>
+	"ButtonClasse.h"
+	"Graphe.h"
+
+1617872029 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\ecranacceuilleborne.cpp
+	"Library.h"
+
+1606821182 c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\buttonclasse.h
+	"Library.h"
+
+1617634211 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\eraseimages.cpp
+	"Library.h"
+
+1617634211 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\initsamples.cpp
+	"Library.h"
+
+1617634211 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\loadimages.cpp
+	"Library.h"
+
+1617833308 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\methodesbutton.cpp
+	"Library.h"
+
+1617634301 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\erasesamples.cpp
+	"Library.h"
+
+1617954793 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\mapandoptions.cpp
+	"Library.h"
+
+1617832975 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\settings.cpp
+	"Library.h"
+
+1618095176 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\menu.cpp
+	"Library.h"
+
+1618133149 c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\graphe.h
+	<fstream>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<queue>
+	<deque>
+	"Sommets.h"
+	"Trajet.h"
+	"Library.h"
+
+1618133274 c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\sommets.h
+	"Graphe.h"
+	"Trajet.h"
+	"Library.h"
+
+1618146602 c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\trajet.h
+	"Graphe.h"
+	"Sommets.h"
+	"Library.h"
+
+1618147080 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\graphemethode.cpp
+	"Graphe.h"
+
+1618134788 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\sommetmethode.cpp
+	"Graphe.h"
+
+1618146629 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\trajetmethodes.cpp
+	"Graphe.h"
+
+1618097268 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\menuflot.cpp
+	"Library.h"
+
+1618078758 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\fonctionconversiontemps.cpp
+	"Library.h"
+
+1618098950 source:c:\users\kevin\documents\ece ecole\ing2\semestre 2\théorie des graphes\projet piscine\documents\test_projet_piscine_allegro\menupreferences.cpp
+	"Library.h"
+
+1618153182 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\ecranacceuilleborne.cpp
+	"Library.h"
+
+1618150855 c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\library.h
+	<iostream>
+	<allegro.h>
+	<sstream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<time.h>
+	<fstream>
+	<deque>
+	<queue>
+	<map>
+	<algorithm>
+	<set>
+	<stack>
+	"ButtonClasse.h"
+	"Graphe.h"
+
+1618154373 c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\buttonclasse.h
+	"Library.h"
+
+1618156742 c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\graphe.h
+	<fstream>
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<queue>
+	<deque>
+	"Sommets.h"
+	"Trajet.h"
+	"Library.h"
+
+1618158656 c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\sommets.h
+	"Graphe.h"
+	"Trajet.h"
+	"Library.h"
+
+1618158656 c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\trajet.h
+	"Graphe.h"
+	"Sommets.h"
+	"Library.h"
+
+1618151230 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\eraseimages.cpp
+	"Library.h"
+
+1618151230 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\erasesamples.cpp
+	"Library.h"
+
+1618078760 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\fonctionconversiontemps.cpp
+	"Library.h"
+
+1618157334 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\graphemethode.cpp
+	"Graphe.h"
+
+1618151230 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\initsamples.cpp
+	"Library.h"
+
+1618151012 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\loadimages.cpp
+	"Library.h"
+
+1618149992 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\main.cpp
+	"Library.h"
+
+1618154373 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\mapandoptions.cpp
+	"Library.h"
+
+1618154373 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\menu.cpp
+	"Library.h"
+
+1618097270 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\menuflot.cpp
+	"Library.h"
+
+1618098952 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\menupreferences.cpp
+	"Library.h"
+
+1618153270 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\methodesbutton.cpp
+	"Library.h"
+
+1618154373 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\settings.cpp
+	"Library.h"
+
+1618158656 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\sommetmethode.cpp
+	"Graphe.h"
+
+1618158794 source:c:\users\oscar\onedrive\bureau\test_projet_piscine_allegro\trajetmethodes.cpp
+	"Graphe.h"
+

@@ -1,0 +1,23 @@
+Image de début chalet 1:
+https://image.freepik.com/vecteurs-libre/station-ski-telesiege-rouge-telepherique-maison-chalet-paysage-montagne-hivernal-sommets-enneiges-pistes-illustration-plate_175690-6.jpg
+
+Image de chalet 2:
+https://img.freepik.com/vecteurs-libre/illustration-station-ski-hiver_1284-22252.jpg?size=626&ext=jpg
+
+Image 3 avec les skies en gros plan :
+https://img.freepik.com/vecteurs-libre/materiel-ski-rouge-station-ski-montagnes-pentes-enneigees-paysage-hiver-soir-matin-coucher-soleil-lever-du-soleil-illustration-plate_175690-5.jpg?size=338&ext=jpg
+
+Toutes les fonctions disponibles sur Allegro 4.4.5, 
+http://allegro-pas.sourceforge.net/docs/4.4.5/AllFunctions.html
+
+“Tower Defense 2D Game Kit”, 
+https://craftpix.net/product/tower-defense-2d-game-kit/
+
+Fonction pour mettre tout les caractères d'une string en majuscule :
+https://www.delftstack.com/fr/howto/cpp/how-to-convert-string-to-uppercase-cpp/#:~:text=Cet%20article%20explique%20plusieurs%20m%C3%A9thodes%20C%2B%2B%20pour%20convertir,peut%20appliquer%20la%20fonction%20donn%C3%A9e%20%C3%A0%20une%20plage.
+
+Aide conception algrithme de ford-fulkerson avec graphe d'ecart :
+https://studylibfr.com/doc/1636167/algorithme-de-ford-fulkerson-graphe-d-ecart---e
+
+
+

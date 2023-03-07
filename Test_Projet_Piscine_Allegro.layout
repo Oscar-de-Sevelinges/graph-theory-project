@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Sommets.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="880" topLine="62" />
+		</Cursor>
+	</File>
+	<File name="ButtonClasse.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="401" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="Trajet.h" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1058" topLine="42" />
+		</Cursor>
+	</File>
+	<File name="EcranAcceuilleBorne.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1190" topLine="32" />
+		</Cursor>
+	</File>
+	<File name="InitSamples.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="703" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="MapAndOptions.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="781" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="EraseImages.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="116" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="SommetMethode.cpp" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10208" topLine="265" />
+		</Cursor>
+	</File>
+	<File name="Library.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1348" topLine="64" />
+		</Cursor>
+	</File>
+	<File name="LoadImages.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="820" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="TrajetMethodes.cpp" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12242" topLine="157" />
+		</Cursor>
+		<Folding>
+			<Collapse line="156" />
+		</Folding>
+	</File>
+	<File name="EraseSamples.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="267" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1865" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="FonctionConversionTemps.cpp" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="287" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="Graphe.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3791" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="GrapheMethode.cpp" open="1" top="1" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="111117" topLine="3708" />
+		</Cursor>
+	</File>
+	<File name="menuFlot.cpp" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5994" topLine="161" />
+		</Cursor>
+	</File>
+	<File name="methodesButton.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15553" topLine="455" />
+		</Cursor>
+	</File>
+	<File name="settings.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9366" topLine="245" />
+		</Cursor>
+	</File>
+	<File name="menuPreferences.cpp" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5919" topLine="158" />
+		</Cursor>
+	</File>
+	<File name="menu.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10739" topLine="282" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
